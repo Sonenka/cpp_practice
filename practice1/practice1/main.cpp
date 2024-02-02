@@ -2,7 +2,9 @@
 #include <math.h>
 using namespace std;
 
-/*факториал
+#define TASK_1
+
+#ifdef TASK_1
 int main()
 {
     int n, res = 1;
@@ -15,9 +17,9 @@ int main()
     cout << res;
     return 0;
 }
-*/
+#endif
 
-/*кв уравн, дописать d < 0
+#ifdef TASK_2
 int main()
 {
     int a, b, c;
@@ -25,25 +27,29 @@ int main()
 
     int d = b*b - 4*a*c;
 
-    int x1, x2;
+    if (d < 0) {
+        cout << "No roots";
+    }
 
-    if (d == 0) {
+    else if (d == 0) {
         int x = -b/(2*a);
         cout << x;
         return 0;
     }
 
-    x1 = (-b + sqrt(d))/(2*a);
-    x2 = (-b - sqrt(d))/(2*a);
+    else {
+        int x1, x2;
+        x1 = (-b + sqrt(d)) / (2 * a);
+        x2 = (-b - sqrt(d)) / (2 * a);
 
-
-
-    cout << x1 << " " << x2;
+        cout << x1 << " " << x2;
+    }
 
     return 0;
-}*/
+}
+#endif
 
-/*prostye
+#ifdef TASK_3
 int main() {
     int f = 0;
     for (int i = 2; i < 100; i++) {
@@ -57,13 +63,13 @@ int main() {
             f = 0;
             continue;
         }
-        cout << i << "\n";
+        cout << i << " ";
     }
     return 0;
 }
-*/
+#endif
 
-/*bin
+#ifdef TASK_4
 void bin(int n) {
     if (n > 1) {
         bin(n/2);
@@ -77,15 +83,16 @@ int main() {
     bin(n);
     return 0;
 }
-*/
 
-/*prog
+#endif
+
+#ifdef TASK_5
 int main() {
     int a, e;
-    float q;
+    float q, res = 0;
+
     cin >> a >> q >> e;
 
-    float res = 0;
     for (int i = 0; i < e; i++) {
         res += a*pow(q, 2*i);
     }
@@ -94,8 +101,9 @@ int main() {
 
     return 0;
 }
-*/
+#endif
 
+#ifdef TASK_6
 int main() {
     char ch;
     cin >> ch;
@@ -104,10 +112,12 @@ int main() {
 
     if ((65 <= int_ch && int_ch <= 90) || (97 <= int_ch && int_ch <= 122)) {
         cout << "True";
-        return 0;
     }
 
-    cout << "False";
+    else {
+        cout << "False";
+    }
 
     return 0;
 }
+#endif
