@@ -30,6 +30,15 @@ public:
         data = new double[cap];
     }
 
+    DynArray(const DynArray& other) {
+        data_size = other.data_size;
+        capacity = other.capacity;
+        data = new double[capacity];
+        for (int i = 0; i < data_size; i++) {
+            data[i] = other.data[i];
+        }
+    }
+
     //destructor
     ~DynArray() {
         cout << "No mem leaks\n";
@@ -70,11 +79,20 @@ private:
     }
 
 public:
-    //constructor
+    //constructors
     MyStack() {
         size = 0;
         capacity = 1;
         data = new int[capacity];
+    }
+
+    MyStack(const MyStack& other) {
+        size = other.size;
+        capacity = other.capacity;
+        data = new int[capacity];
+        for (int i = 0; i < size; i++) {
+            data[i] = other.data[i];
+        }
     }
 
     //destructor
@@ -117,6 +135,7 @@ void DynArrayExample() {
     DynArray arr(10); // reserve memory for 10 array members
     arr.append(1.0);
 
+
     for (size_t i = 0; i < 15; i++) // make sure that the array can dynamically resize
     {
         arr.append(i + 0.0);
@@ -138,12 +157,21 @@ void MyStackExample() {
     stack.push(10);
     stack.push(15);
 
-    cout << "Top element: " << stack.top() << "\n"; // Output: 15
+    // Creating a new stack using the copy constructor
+    MyStack stackCopy(stack);
 
-    cout << "Popped element: " << stack.pop() << "\n"; // Output: 15
-    cout << "Stack size: " << stack.getSize() << "\n"; // Output: 2
+    cout << "   Original Stack:\n";
+    cout << "Top element: " << stack.top() << "\n";  // output: Top element: 15
+    cout << "Popped element: " << stack.pop() << "\n";  // output: Popped element: 15
+    cout << "Stack size: " << stack.getSize() << "\n";  // output: Stack size: 2
+    cout << "Is stack empty? " << (stack.isEmpty() ? "Yes" : "No") << "\n";  // output: Is stack empty? No
 
-    cout << "Is stack empty? " << (stack.isEmpty() ? "Yes" : "No") << "\n"; // Output: No
+    cout << "\n    Copied Stack:\n";
+    stackCopy.push(20);
+    cout << "Top element: " << stackCopy.top() << "\n";  // output: Top element: 20
+    cout << "Popped element: " << stackCopy.pop() << "\n";  // output: Popped element: 20
+    cout << "Stack size: " << stackCopy.getSize() << "\n";  // output: Stack size: 3
+    cout << "Is stack empty? " << (stackCopy.isEmpty() ? "Yes" : "No") << "\n";  // output: Is stack empty? No
 }
 
 int main(int argc, char* argv[])
