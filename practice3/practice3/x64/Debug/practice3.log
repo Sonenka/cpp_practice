@@ -1,3 +1,5 @@
-﻿  main.cpp
-D:\programming\cpp_practice\practice3\practice3\main.cpp(146,25): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+﻿  examples.cpp
+D:\programming\cpp_practice\practice3\practice3\examples.cpp(19,30): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  main.cpp
+  Создание кода...
   practice3.vcxproj -> D:\programming\cpp_practice\practice3\x64\Debug\practice3.exe

@@ -127,7 +127,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="dynarray.cpp" />
+    <ClCompile Include="examples.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="mystack.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="dynarray.hpp" />
+    <ClInclude Include="examples.hpp" />
+    <ClInclude Include="mystack.hpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

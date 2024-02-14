@@ -1,2 +1,13 @@
-﻿  main.cpp
+﻿  bin.cpp
+  factorial.cpp
+  geom_prog.cpp
+  isChar.cpp
+  main.cpp
+  prime_numbers.cpp
+  quad_eq.cpp
+D:\programming\cpp_practice\practice1\practice1\quad_eq.cpp(18,15): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\programming\cpp_practice\practice1\practice1\quad_eq.cpp(24,29): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\programming\cpp_practice\practice1\practice1\quad_eq.cpp(25,29): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Создание кода...
+x64\Debug\isChar.obj : warning LNK4042: объект указан более одного раза; лишние не учитываются
   practice1.vcxproj -> D:\programming\cpp_practice\practice1\x64\Debug\practice1.exe

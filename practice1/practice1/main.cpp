@@ -1,123 +1,77 @@
 #include <iostream>
-#include <math.h>
-using namespace std;
 
-#define TASK_1
+#include "factorial.hpp"
+#include "quad_eq.hpp"
+#include "prime_numbers.hpp"
+#include "bin.hpp"
+#include "geom_prog.hpp"
+#include "isChar.hpp"
 
-#ifdef TASK_1
-int main()
-{
-    int n, res = 1;
-    cin >> n;
+#define TASK_2
 
-    for (int i = 1; i <= n; ++i) {
-        res *= i;
+
+int main() {
+    std::cout << "Choose the task:\n";
+    std::cout << "1. Factorial\n2. Quadratic equation\n3. Prime numbers\n4. Dec to Bin\n5. Geometric progression\n6. IsChar\n";
+
+    int task;
+    std::cin >> task;
+
+    if (task == 1) {
+        int n;
+        std::cin >> n;
+
+        std::cout << factorial(n);
+
+        return 0;
     }
 
-    cout << res;
-    return 0;
-}
-#endif
+    else if (task == 2) {
+        double a, b, c;
+        std::cin >> a >> b >> c;
 
-#ifdef TASK_2
-int main()
-{
-    int a, b, c;
-    cin >> a >> b >> c;
+        quad_eq(a, b, c);
 
-    int d = b*b - 4*a*c;
-
-    if (d < 0) {
-        cout << "No roots";
+        return 0;
     }
 
-    else if (d == 0) {
-        int x = -b/(2*a);
-        cout << x;
+    else if (task == 3) {
+        prime_numbers();
+
+        std::cout << std::endl;
+
+        return 0;
+    }
+
+    else if (task == 4) {
+        int n;
+        std::cin >> n;
+
+        bin(n);
+
+        return 0;
+    }
+
+    else if (task == 5) {
+        int a, e;
+        double q;
+        std::cin >> a >> q >> e;
+
+        std::cout << geom_prog(a, q, e);
+
+        return 0;
+    }
+
+    else if (task == 6) {
+        char ch;
+        std::cin >> ch;
+
+        std::cout << std::boolalpha << isChar(ch);
+
         return 0;
     }
 
     else {
-        int x1, x2;
-        x1 = (-b + sqrt(d)) / (2 * a);
-        x2 = (-b - sqrt(d)) / (2 * a);
-
-        cout << x1 << " " << x2;
+        std::cout << "Wrong task number.\n";
     }
-
-    return 0;
 }
-#endif
-
-#ifdef TASK_3
-int main() {
-    int f = 0;
-    for (int i = 2; i < 100; i++) {
-        for (int j = 2; j < i; j++) {
-            if (i%j == 0) {
-                f = 1;
-                break;
-            }
-        }
-        if (f == 1) {
-            f = 0;
-            continue;
-        }
-        cout << i << " ";
-    }
-    return 0;
-}
-#endif
-
-#ifdef TASK_4
-void bin(int n) {
-    if (n > 1) {
-        bin(n/2);
-    }
-    cout<<n%2;
-    return 0;
-}
-int main() {
-    int n;
-    cin >> n;
-    bin(n);
-    return 0;
-}
-
-#endif
-
-#ifdef TASK_5
-int main() {
-    int a, e;
-    float q, res = 0;
-
-    cin >> a >> q >> e;
-
-    for (int i = 0; i < e; i++) {
-        res += a*pow(q, 2*i);
-    }
-
-    cout << res;
-
-    return 0;
-}
-#endif
-
-#ifdef TASK_6
-int main() {
-    char ch;
-    cin >> ch;
-
-    int int_ch = (int)ch;
-
-    if ((65 <= int_ch && int_ch <= 90) || (97 <= int_ch && int_ch <= 122)) {
-        cout << "True";
-    }
-
-    else {
-        cout << "False";
-    }
-
-    return 0;
-}
-#endif
