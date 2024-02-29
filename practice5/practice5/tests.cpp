@@ -2,6 +2,7 @@
 #include "tests.hpp"
 #include "vecnd.hpp"
 #include "mat2d.hpp"
+#include "system.hpp"
 
 void vecnd_test() {
     std::cout << "VECND_TEST" << std::endl;
@@ -88,4 +89,21 @@ void mat2d_test() {
 
     std::cout << "Result of matrix1 * vector:" << std::endl;
     matxvec.printMat();
+    std::cout << std::endl;
+}
+
+void system_test() {
+    std::cout << "SYSTEM_TEST" << std::endl;
+    Mat2D A(2, 2);
+    A[0][0] = 2; A[0][1] = 1;
+    A[1][0] = 1; A[1][1] = -1;
+
+    VecND b(2);
+    b[0] = 3; b[1] = 1;
+
+    System system(A, b);
+    system.printSystem();
+    Mat2D solution = system.solve();
+
+    solution.printSolution();
 }

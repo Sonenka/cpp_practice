@@ -67,6 +67,18 @@ Mat2D Mat2D::operator*(const VecND& other) {
 	return result;
 }
 
+Mat2D Mat2D::operator*(double other) {
+	Mat2D result(rows, cols);
+
+	for (size_t i = 0; i < rows; i++) {
+		for (size_t j = 0; j < cols; j++) {
+			result[i][j] = matrix[i][j] * other;
+		}
+	}
+
+	return result;
+}
+
 void Mat2D::printMat() {
 	for (size_t i = 0; i < rows; i++) {
 		matrix[i].printVec();
@@ -106,7 +118,7 @@ Mat2D Mat2D::minor(int del_col) {
 	return result;
 }
 
-int Mat2D::determinant() {
+double Mat2D::determinant() {
 	if (cols != rows) {
 		std::cout << "Wrong matrix size." << std::endl;
 		return 0;
@@ -130,5 +142,26 @@ int Mat2D::determinant() {
 	return result;
 }
 
+Mat2D Mat2D::inverse() {
+	Mat2D result(rows, cols);
+
+	for (size_t i = 0; i < rows; i++) {
+		for (size_t j = 0; j < cols; j++) {
+			result[i][j] = matrix[i][j];
+		}
+	}
+
+	double determinant = result.determinant();
+	result = result.transpose();
+
+	return result * (1 / determinant);
+}
+
+void Mat2D::printSolution() {
+	std::cout << "Solution x:" << std::endl;
+	for (size_t i = 0; i < rows; i++) {
+		std::cout << "x" << i << " = " << matrix[i][0] << std::endl;
+	}
+}
 
 

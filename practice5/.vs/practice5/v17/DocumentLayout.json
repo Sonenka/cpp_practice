@@ -1,0 +1,206 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\programming\\cpp_practice\\practice5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD81BB1E-90C9-4CE3-BE87-C560368EEF3C}|practice5\\practice5.vcxproj|D:\\programming\\cpp_practice\\practice5\\practice5\\dynarray.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BD81BB1E-90C9-4CE3-BE87-C560368EEF3C}|practice5\\practice5.vcxproj|solutionrelative:practice5\\dynarray.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD81BB1E-90C9-4CE3-BE87-C560368EEF3C}|practice5\\practice5.vcxproj|D:\\programming\\cpp_practice\\practice5\\practice5\\tests.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BD81BB1E-90C9-4CE3-BE87-C560368EEF3C}|practice5\\practice5.vcxproj|solutionrelative:practice5\\tests.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD81BB1E-90C9-4CE3-BE87-C560368EEF3C}|practice5\\practice5.vcxproj|D:\\programming\\cpp_practice\\practice5\\practice5\\vecnd.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BD81BB1E-90C9-4CE3-BE87-C560368EEF3C}|practice5\\practice5.vcxproj|solutionrelative:practice5\\vecnd.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD81BB1E-90C9-4CE3-BE87-C560368EEF3C}|practice5\\practice5.vcxproj|D:\\programming\\cpp_practice\\practice5\\practice5\\system.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BD81BB1E-90C9-4CE3-BE87-C560368EEF3C}|practice5\\practice5.vcxproj|solutionrelative:practice5\\system.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD81BB1E-90C9-4CE3-BE87-C560368EEF3C}|practice5\\practice5.vcxproj|D:\\programming\\cpp_practice\\practice5\\practice5\\mat2d.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BD81BB1E-90C9-4CE3-BE87-C560368EEF3C}|practice5\\practice5.vcxproj|solutionrelative:practice5\\mat2d.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD81BB1E-90C9-4CE3-BE87-C560368EEF3C}|practice5\\practice5.vcxproj|D:\\programming\\cpp_practice\\practice5\\practice5\\VecND.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BD81BB1E-90C9-4CE3-BE87-C560368EEF3C}|practice5\\practice5.vcxproj|solutionrelative:practice5\\VecND.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD81BB1E-90C9-4CE3-BE87-C560368EEF3C}|practice5\\practice5.vcxproj|D:\\programming\\cpp_practice\\practice5\\practice5\\tests.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BD81BB1E-90C9-4CE3-BE87-C560368EEF3C}|practice5\\practice5.vcxproj|solutionrelative:practice5\\tests.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD81BB1E-90C9-4CE3-BE87-C560368EEF3C}|practice5\\practice5.vcxproj|D:\\programming\\cpp_practice\\practice5\\practice5\\system.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BD81BB1E-90C9-4CE3-BE87-C560368EEF3C}|practice5\\practice5.vcxproj|solutionrelative:practice5\\system.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD81BB1E-90C9-4CE3-BE87-C560368EEF3C}|practice5\\practice5.vcxproj|D:\\programming\\cpp_practice\\practice5\\practice5\\mat2d.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BD81BB1E-90C9-4CE3-BE87-C560368EEF3C}|practice5\\practice5.vcxproj|solutionrelative:practice5\\mat2d.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD81BB1E-90C9-4CE3-BE87-C560368EEF3C}|practice5\\practice5.vcxproj|D:\\programming\\cpp_practice\\practice5\\practice5\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BD81BB1E-90C9-4CE3-BE87-C560368EEF3C}|practice5\\practice5.vcxproj|solutionrelative:practice5\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD81BB1E-90C9-4CE3-BE87-C560368EEF3C}|practice5\\practice5.vcxproj|D:\\programming\\cpp_practice\\practice5\\practice5\\dynarray.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BD81BB1E-90C9-4CE3-BE87-C560368EEF3C}|practice5\\practice5.vcxproj|solutionrelative:practice5\\dynarray.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "system.cpp",
+              "DocumentMoniker": "D:\\programming\\cpp_practice\\practice5\\practice5\\system.cpp",
+              "RelativeDocumentMoniker": "practice5\\system.cpp",
+              "ToolTip": "D:\\programming\\cpp_practice\\practice5\\practice5\\system.cpp",
+              "RelativeToolTip": "practice5\\system.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-29T13:45:33.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "system.hpp",
+              "DocumentMoniker": "D:\\programming\\cpp_practice\\practice5\\practice5\\system.hpp",
+              "RelativeDocumentMoniker": "practice5\\system.hpp",
+              "ToolTip": "D:\\programming\\cpp_practice\\practice5\\practice5\\system.hpp",
+              "RelativeToolTip": "practice5\\system.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-02-29T13:44:07.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "mat2d.cpp",
+              "DocumentMoniker": "D:\\programming\\cpp_practice\\practice5\\practice5\\mat2d.cpp",
+              "RelativeDocumentMoniker": "practice5\\mat2d.cpp",
+              "ToolTip": "D:\\programming\\cpp_practice\\practice5\\practice5\\mat2d.cpp",
+              "RelativeToolTip": "practice5\\mat2d.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJcAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-27T00:30:15.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "mat2d.hpp",
+              "DocumentMoniker": "D:\\programming\\cpp_practice\\practice5\\practice5\\mat2d.hpp",
+              "RelativeDocumentMoniker": "practice5\\mat2d.hpp",
+              "ToolTip": "D:\\programming\\cpp_practice\\practice5\\practice5\\mat2d.hpp",
+              "RelativeToolTip": "practice5\\mat2d.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-02-27T00:30:06.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "tests.cpp",
+              "DocumentMoniker": "D:\\programming\\cpp_practice\\practice5\\practice5\\tests.cpp",
+              "RelativeDocumentMoniker": "practice5\\tests.cpp",
+              "ToolTip": "D:\\programming\\cpp_practice\\practice5\\practice5\\tests.cpp",
+              "RelativeToolTip": "practice5\\tests.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-27T00:08:05.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "tests.hpp",
+              "DocumentMoniker": "D:\\programming\\cpp_practice\\practice5\\practice5\\tests.hpp",
+              "RelativeDocumentMoniker": "practice5\\tests.hpp",
+              "ToolTip": "D:\\programming\\cpp_practice\\practice5\\practice5\\tests.hpp",
+              "RelativeToolTip": "practice5\\tests.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-02-27T00:07:54.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "vecnd.cpp",
+              "DocumentMoniker": "D:\\programming\\cpp_practice\\practice5\\practice5\\vecnd.cpp",
+              "RelativeDocumentMoniker": "practice5\\vecnd.cpp",
+              "ToolTip": "D:\\programming\\cpp_practice\\practice5\\practice5\\vecnd.cpp",
+              "RelativeToolTip": "practice5\\vecnd.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-26T23:23:26.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "vecnd.hpp",
+              "DocumentMoniker": "D:\\programming\\cpp_practice\\practice5\\practice5\\vecnd.hpp",
+              "RelativeDocumentMoniker": "practice5\\vecnd.hpp",
+              "ToolTip": "D:\\programming\\cpp_practice\\practice5\\practice5\\vecnd.hpp",
+              "RelativeToolTip": "practice5\\vecnd.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-02-26T23:23:03.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dynarray.cpp",
+              "DocumentMoniker": "D:\\programming\\cpp_practice\\practice5\\practice5\\dynarray.cpp",
+              "RelativeDocumentMoniker": "practice5\\dynarray.cpp",
+              "ToolTip": "D:\\programming\\cpp_practice\\practice5\\practice5\\dynarray.cpp",
+              "RelativeToolTip": "practice5\\dynarray.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-14T23:13:11.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "dynarray.hpp",
+              "DocumentMoniker": "D:\\programming\\cpp_practice\\practice5\\practice5\\dynarray.hpp",
+              "RelativeDocumentMoniker": "practice5\\dynarray.hpp",
+              "ToolTip": "D:\\programming\\cpp_practice\\practice5\\practice5\\dynarray.hpp",
+              "RelativeToolTip": "practice5\\dynarray.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-02-14T23:12:55.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\programming\\cpp_practice\\practice5\\practice5\\main.cpp",
+              "RelativeDocumentMoniker": "practice5\\main.cpp",
+              "ToolTip": "D:\\programming\\cpp_practice\\practice5\\practice5\\main.cpp",
+              "RelativeToolTip": "practice5\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-14T20:18:10.931Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

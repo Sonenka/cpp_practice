@@ -15,10 +15,13 @@ public:
     Mat2D operator+(const Mat2D other);
     Mat2D operator*(const Mat2D& other);
     Mat2D operator*(const VecND& other);
+    Mat2D operator*(double other);
 
     void printMat();
     Mat2D transpose();
     Mat2D minor(int del_col);
-    int determinant();
+    double determinant();
+    Mat2D inverse();
+    void printSolution();
     
 };

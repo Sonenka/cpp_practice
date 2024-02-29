@@ -130,12 +130,14 @@
     <ClCompile Include="dynarray.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="mat2d.cpp" />
+    <ClCompile Include="system.cpp" />
     <ClCompile Include="tests.cpp" />
     <ClCompile Include="vecnd.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="dynarray.hpp" />
     <ClInclude Include="mat2d.hpp" />
+    <ClInclude Include="system.hpp" />
     <ClInclude Include="tests.hpp" />
     <ClInclude Include="vecnd.hpp" />
   </ItemGroup>
