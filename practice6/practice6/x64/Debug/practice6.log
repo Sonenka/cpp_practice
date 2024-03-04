@@ -1,0 +1,14 @@
+﻿  vecnd.cpp
+D:\programming\cpp_practice\practice6\practice6\vecnd.cpp(75,23): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  D:\programming\cpp_practice\practice6\practice6\vecnd.cpp(75,23):
+  контекст создания экземпляра шаблона (сначала самый старый)
+  	D:\programming\cpp_practice\practice6\practice6\vecnd.cpp(86,25):
+  	выполняется компиляция ссылки на экземпляр класс шаблон функции "VecND<double>"
+  	D:\programming\cpp_practice\practice6\practice6\vecnd.cpp(10,40):
+  	во время компиляции функции-члена класс шаблон "VecND<double>::VecND(const VecND<double> &)"
+  	D:\programming\cpp_practice\practice6\practice6\vecnd.cpp(74,28):
+  	во время компиляции функции-члена класс шаблон "int VecND<double>::size(void) const"
+  		D:\programming\cpp_practice\practice6\practice6\vecnd.cpp(43,5):
+  		см. первую ссылку на "VecND<double>::size" в "VecND<double>::operator +"
+  
+  practice6.vcxproj -> D:\programming\cpp_practice\practice6\x64\Debug\practice6.exe

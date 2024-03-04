@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\programming\\cpp_practice\\practice6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D204E84-11E6-4B32-998A-BD8C1BAA6353}|practice6\\practice6.vcxproj|D:\\programming\\cpp_practice\\practice6\\practice6\\vecnd.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1D204E84-11E6-4B32-998A-BD8C1BAA6353}|practice6\\practice6.vcxproj|solutionrelative:practice6\\vecnd.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D204E84-11E6-4B32-998A-BD8C1BAA6353}|practice6\\practice6.vcxproj|D:\\programming\\cpp_practice\\practice6\\practice6\\mat2d.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1D204E84-11E6-4B32-998A-BD8C1BAA6353}|practice6\\practice6.vcxproj|solutionrelative:practice6\\mat2d.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D204E84-11E6-4B32-998A-BD8C1BAA6353}|practice6\\practice6.vcxproj|D:\\programming\\cpp_practice\\practice6\\practice6\\tests.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1D204E84-11E6-4B32-998A-BD8C1BAA6353}|practice6\\practice6.vcxproj|solutionrelative:practice6\\tests.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D204E84-11E6-4B32-998A-BD8C1BAA6353}|practice6\\practice6.vcxproj|D:\\programming\\cpp_practice\\practice6\\practice6\\mat2d.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1D204E84-11E6-4B32-998A-BD8C1BAA6353}|practice6\\practice6.vcxproj|solutionrelative:practice6\\mat2d.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D204E84-11E6-4B32-998A-BD8C1BAA6353}|practice6\\practice6.vcxproj|D:\\programming\\cpp_practice\\practice6\\practice6\\vecnd.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1D204E84-11E6-4B32-998A-BD8C1BAA6353}|practice6\\practice6.vcxproj|solutionrelative:practice6\\vecnd.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D204E84-11E6-4B32-998A-BD8C1BAA6353}|practice6\\practice6.vcxproj|D:\\programming\\cpp_practice\\practice6\\practice6\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1D204E84-11E6-4B32-998A-BD8C1BAA6353}|practice6\\practice6.vcxproj|solutionrelative:practice6\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D204E84-11E6-4B32-998A-BD8C1BAA6353}|practice6\\practice6.vcxproj|D:\\programming\\cpp_practice\\practice6\\practice6\\dynarray.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1D204E84-11E6-4B32-998A-BD8C1BAA6353}|practice6\\practice6.vcxproj|solutionrelative:practice6\\dynarray.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D204E84-11E6-4B32-998A-BD8C1BAA6353}|practice6\\practice6.vcxproj|D:\\programming\\cpp_practice\\practice6\\practice6\\dynarray.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1D204E84-11E6-4B32-998A-BD8C1BAA6353}|practice6\\practice6.vcxproj|solutionrelative:practice6\\dynarray.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D204E84-11E6-4B32-998A-BD8C1BAA6353}|practice6\\practice6.vcxproj|D:\\programming\\cpp_practice\\practice6\\practice6\\tests.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1D204E84-11E6-4B32-998A-BD8C1BAA6353}|practice6\\practice6.vcxproj|solutionrelative:practice6\\tests.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D204E84-11E6-4B32-998A-BD8C1BAA6353}|practice6\\practice6.vcxproj|D:\\programming\\cpp_practice\\practice6\\practice6\\queue.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1D204E84-11E6-4B32-998A-BD8C1BAA6353}|practice6\\practice6.vcxproj|solutionrelative:practice6\\queue.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "vecnd.cpp",
+              "DocumentMoniker": "D:\\programming\\cpp_practice\\practice6\\practice6\\vecnd.cpp",
+              "RelativeDocumentMoniker": "practice6\\vecnd.cpp",
+              "ToolTip": "D:\\programming\\cpp_practice\\practice6\\practice6\\vecnd.cpp",
+              "RelativeToolTip": "practice6\\vecnd.cpp",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAFwAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-04T01:58:03.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "vecnd.hpp",
+              "DocumentMoniker": "D:\\programming\\cpp_practice\\practice6\\practice6\\vecnd.hpp",
+              "RelativeDocumentMoniker": "practice6\\vecnd.hpp",
+              "ToolTip": "D:\\programming\\cpp_practice\\practice6\\practice6\\vecnd.hpp",
+              "RelativeToolTip": "practice6\\vecnd.hpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-04T01:54:32.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "mat2d.hpp",
+              "DocumentMoniker": "D:\\programming\\cpp_practice\\practice6\\practice6\\mat2d.hpp",
+              "RelativeDocumentMoniker": "practice6\\mat2d.hpp",
+              "ToolTip": "D:\\programming\\cpp_practice\\practice6\\practice6\\mat2d.hpp",
+              "RelativeToolTip": "practice6\\mat2d.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-04T01:54:26.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "mat2d.cpp",
+              "DocumentMoniker": "D:\\programming\\cpp_practice\\practice6\\practice6\\mat2d.cpp",
+              "RelativeDocumentMoniker": "practice6\\mat2d.cpp",
+              "ToolTip": "D:\\programming\\cpp_practice\\practice6\\practice6\\mat2d.cpp",
+              "RelativeToolTip": "practice6\\mat2d.cpp",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAAcAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-04T01:54:23.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "tests.cpp",
+              "DocumentMoniker": "D:\\programming\\cpp_practice\\practice6\\practice6\\tests.cpp",
+              "RelativeDocumentMoniker": "practice6\\tests.cpp",
+              "ToolTip": "D:\\programming\\cpp_practice\\practice6\\practice6\\tests.cpp",
+              "RelativeToolTip": "practice6\\tests.cpp",
+              "ViewState": "AQIAAI0AAAAAAAAAAADwv54AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-01T00:59:51.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "queue.hpp",
+              "DocumentMoniker": "D:\\programming\\cpp_practice\\practice6\\practice6\\queue.hpp",
+              "RelativeDocumentMoniker": "practice6\\queue.hpp",
+              "ToolTip": "D:\\programming\\cpp_practice\\practice6\\practice6\\queue.hpp",
+              "RelativeToolTip": "practice6\\queue.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-04T00:22:30.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "tests.hpp",
+              "DocumentMoniker": "D:\\programming\\cpp_practice\\practice6\\practice6\\tests.hpp",
+              "RelativeDocumentMoniker": "practice6\\tests.hpp",
+              "ToolTip": "D:\\programming\\cpp_practice\\practice6\\practice6\\tests.hpp",
+              "RelativeToolTip": "practice6\\tests.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-01T00:58:32.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "dynarray.cpp",
+              "DocumentMoniker": "D:\\programming\\cpp_practice\\practice6\\practice6\\dynarray.cpp",
+              "RelativeDocumentMoniker": "practice6\\dynarray.cpp",
+              "ToolTip": "D:\\programming\\cpp_practice\\practice6\\practice6\\dynarray.cpp",
+              "RelativeToolTip": "practice6\\dynarray.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-01T00:56:15.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "dynarray.hpp",
+              "DocumentMoniker": "D:\\programming\\cpp_practice\\practice6\\practice6\\dynarray.hpp",
+              "RelativeDocumentMoniker": "practice6\\dynarray.hpp",
+              "ToolTip": "D:\\programming\\cpp_practice\\practice6\\practice6\\dynarray.hpp",
+              "RelativeToolTip": "practice6\\dynarray.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-01T00:55:53.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\programming\\cpp_practice\\practice6\\practice6\\main.cpp",
+              "RelativeDocumentMoniker": "practice6\\main.cpp",
+              "ToolTip": "D:\\programming\\cpp_practice\\practice6\\practice6\\main.cpp",
+              "RelativeToolTip": "practice6\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-01T00:55:29.346Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
